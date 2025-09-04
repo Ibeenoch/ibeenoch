@@ -5,14 +5,14 @@
 ---
 
 ## 🎯 Objective  
-To secure a challenging **Frontend Developer position** where I can apply my expertise in modern web and mobile technologies to build performant, scalable, and user-friendly applications that drive business impact and enhance user satisfaction.  
+To secure a challenging **Software Developer position** where I can apply my expertise in modern web and mobile technologies to build performant, scalable, and user-friendly applications that drive business impact and enhance user satisfaction.  
 
 ---
 
 ## 📬 Contact  
 - 📧 Email: **fredenoch1@gmail.com**  
 - 📱 Phone: **+2347013456692**  
-- 🌐 [Portfolio](#) | [GitHub](https://github.com/EnochIbewunjo)  
+- 🌐 [Portfolio](https://portfilo-web-orpin.vercel.app/) | [GitHub](https://github.com/EnochIbewunjo)  
 - 📍 Lagos, Nigeria  
 
 ---
@@ -75,5 +75,5 @@ As a frontend developer, I’m passionate about transforming **complex problems 
 
 ## 🌐 Let's Connect  
 - [LinkedIn](#)  
-- [Portfolio](#)  
+- [Portfolio](https://portfilo-web-orpin.vercel.app/) 
 - [GitHub](https://github.com/ibeenoch)  
