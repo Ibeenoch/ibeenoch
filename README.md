@@ -19,7 +19,7 @@ To secure a challenging **Software Developer position** where I can apply my exp
 
 ## 💼 Experience  
 
-**Fullstack Developer **
+**Fullstack Developer**
 BluconValley 
 August 2025 -  present 
 • Developed a scalable multi-vendor marketplace with 
@@ -34,7 +34,7 @@ optimizations, caching, and SSR/ISR, achieving faster load
 times. 
 
 
-** FRONTEND DEVELOPER **
+**FRONTEND DEVELOPER**
 Warpspeed Financial Limited.  
 Mar 2024 -  present 
 • Contributed to building Warpspeed’s financial payment 
