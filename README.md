@@ -36,30 +36,31 @@ times.
 
 **FRONTEND DEVELOPER**
 Warpspeed Financial Limited.  
-Mar 2024 -  present 
-• Contributed to building Warpspeed’s financial payment 
+Mar 2024 -  Aug 2025 
+- Contributed to building Warpspeed’s financial payment 
 application from scratch for both web (React) and mobile 
 (Flutter) platforms. 
-• Managed complex application state using Redux Toolkit in 
+- Managed complex application state using Redux Toolkit in 
 React and Bloc in Flutter, ensuring consistent and 
 predictable user experiences. 
-• Integrated RESTful APIs, collaborating with backend 
+- Integrated RESTful APIs, collaborating with backend 
 engineers (Node.js, Java) to implement real-time 
 transaction capabilities. 
-• Worked alongside embedded systems engineers to ensure 
+- Worked alongside embedded systems engineers to ensure 
 smooth interaction between the application and physical 
 payment hardware. 
 
 **FRONTEND DEVELOPER**
 YipOnline Nigeria  Limited.  
 Feb  2022 – Mar 2024 
-• Assisted in developing user-facing features using HTML, CSS, 
+- Assisted in developing user-facing features using HTML, CSS, 
 JavaScript, and React. 
-• Helped fix UI bugs and refactor code to improve readability 
+- Helped fix UI bugs and refactor code to improve readability 
 and performance. 
-• Participated in daily stand-ups and sprint planning as part 
+- Participated in daily stand-ups and sprint planning as part 
 of the Agile development team. 
-
+- Gained hands-on experience integrating frontend 
+components with backend APIs. 
 ---
 
 ## 👨‍💻 About Me  
