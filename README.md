@@ -22,14 +22,14 @@ To secure a challenging **Software Developer position** where I can apply my exp
 **Fullstack Developer**
 BluconValley 
 August 2025 -  present 
-• Developed a scalable multi-vendor marketplace with 
+- Developed a scalable multi-vendor marketplace with 
 secure payments and real-time features using Next.js, 
 TypeScript, Node.js, and Express.js. 
-• Built a dynamic admin system with role-based controls, 
+- Built a dynamic admin system with role-based controls, 
 configurable dashboards, and content management. 
-• Implemented live/on-demand video streaming using 
+- Implemented live/on-demand video streaming using 
 WebRTC with optimized performance. 
-• Improved system speed and reliability through API 
+- Improved system speed and reliability through API 
 optimizations, caching, and SSR/ISR, achieving faster load 
 times. 
 
