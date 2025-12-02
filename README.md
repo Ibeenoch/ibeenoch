@@ -12,7 +12,7 @@ To secure a challenging **Software Developer position** where I can apply my exp
 ## 📬 Contact  
 - 📧 Email: **fredenoch1@gmail.com**  
 - 📱 Phone: **+2347013456692**  
-- 🌐 [Portfolio](https://portfilo-web-orpin.vercel.app/) | [GitHub](https://github.com/EnochIbewunjo)  
+- 🌐 [Portfolio](https://mycareer-ten.vercel.app/) | [GitHub](https://github.com/EnochIbewunjo)  
 - 📍 Lagos, Nigeria  
 
 ---
