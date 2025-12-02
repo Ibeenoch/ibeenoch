@@ -20,7 +20,7 @@ To secure a challenging **Software Developer position** where I can apply my exp
 ## 💼 Experience  
 
 **Fullstack Developer**
-BluconValley 
+BluconValley.
 August 2025 -  present 
 - Developed a scalable multi-vendor marketplace with 
 secure payments and real-time features using Next.js, 
