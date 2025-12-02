@@ -19,8 +19,8 @@ To secure a challenging **Software Developer position** where I can apply my exp
 
 ## 💼 Experience  
 
-**Fullstack Developer**
-BluconValley.
+**Fullstack Developer**  
+BluconValley.  
 August 2025 -  present 
 - Developed a scalable multi-vendor marketplace with 
 secure payments and real-time features using Next.js, 
@@ -34,8 +34,8 @@ optimizations, caching, and SSR/ISR, achieving faster load
 times. 
 
 
-**FRONTEND DEVELOPER**
-Warpspeed Financial Limited.  
+**FRONTEND DEVELOPER**  
+Warpspeed Financial Limited.    
 Mar 2024 -  Aug 2025 
 - Contributed to building Warpspeed’s financial payment 
 application from scratch for both web (React) and mobile 
@@ -50,7 +50,7 @@ transaction capabilities.
 smooth interaction between the application and physical 
 payment hardware. 
 
-**FRONTEND DEVELOPER**
+**FRONTEND DEVELOPER**  
 YipOnline Nigeria  Limited.  
 Feb  2022 – Mar 2024 
 - Assisted in developing user-facing features using HTML, CSS, 
