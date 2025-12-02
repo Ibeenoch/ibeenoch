@@ -19,19 +19,45 @@ To secure a challenging **Software Developer position** where I can apply my exp
 
 ## 💼 Experience  
 
-### **Frontend Developer** — *Warpspeed Financial Limited*  
-📅 *Mar 2024 – Present*  
-- Contributed to building **Warpspeed’s financial payment application** from scratch for both **web (React)** and **mobile (Flutter)** platforms.  
-- Managed complex application state using **Redux Toolkit** (React) and **Bloc** (Flutter).  
-- Integrated **RESTful APIs**, collaborating with backend engineers (Node.js, Java) to enable **real-time transactions**.  
-- Worked closely with **embedded systems engineers** to ensure smooth interaction between apps and payment hardware.  
+Fullstack Developer 
+BluconValley 
+August 2025 -  present 
+• Developed a scalable multi-vendor marketplace with 
+secure payments and real-time features using Next.js, 
+TypeScript, Node.js, and Express.js. 
+• Built a dynamic admin system with role-based controls, 
+configurable dashboards, and content management. 
+• Implemented live/on-demand video streaming using 
+WebRTC with optimized performance. 
+• Improved system speed and reliability through API 
+optimizations, caching, and SSR/ISR, achieving faster load 
+times. 
 
-### **Junior Frontend Developer Intern** — *YipOnline Nigeria Limited*  
-📅 *Feb 2023 – Mar 2024*  
-- Assisted in developing user-facing features using **HTML, CSS, JavaScript, and React**.  
-- Fixed UI bugs and refactored code to improve **performance** and **readability**.  
-- Participated in **Agile ceremonies** (daily standups, sprint planning).  
-- Integrated frontend components with backend APIs.  
+
+FRONTEND DEVELOPER 
+Warpspeed Financial Limited.  
+Mar 2024 -  present 
+• Contributed to building Warpspeed’s financial payment 
+application from scratch for both web (React) and mobile 
+(Flutter) platforms. 
+• Managed complex application state using Redux Toolkit in 
+React and Bloc in Flutter, ensuring consistent and 
+predictable user experiences. 
+• Integrated RESTful APIs, collaborating with backend 
+engineers (Node.js, Java) to implement real-time 
+transaction capabilities. 
+• Worked alongside embedded systems engineers to ensure 
+smooth interaction between the application and physical 
+payment hardware. 
+FRONTEND DEVELOPER 
+YipOnline Nigeria  Limited.  
+Feb  2022 – Mar 2024 
+• Assisted in developing user-facing features using HTML, CSS, 
+JavaScript, and React. 
+• Helped fix UI bugs and refactor code to improve readability 
+and performance. 
+• Participated in daily stand-ups and sprint planning as part 
+of the Agile development team. 
 
 ---
 
