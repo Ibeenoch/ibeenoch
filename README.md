@@ -102,6 +102,6 @@ As a frontend developer, I’m passionate about transforming **complex problems 
 ---
 
 ## 🌐 Let's Connect  
-- [LinkedIn](#)  
-- [Portfolio](https://portfilo-web-orpin.vercel.app/) 
+- [LinkedIn](https://www.linkedin.com/in/enoch-ibewunjo-531a77177)  
+- [Portfolio](https://mycareer-ten.vercel.app/) 
 - [GitHub](https://github.com/ibeenoch)  
