@@ -64,7 +64,7 @@ components with backend APIs.
 ---
 
 ## 👨‍💻 About Me  
-As a frontend developer, I’m passionate about transforming **complex problems into elegant, user-centric digital experiences**. I specialize in **full-cycle development** of responsive web interfaces and cross-platform mobile apps, with a strong focus on **performance, accessibility, and scalability**.  
+As a fullstack developer, I build complete applications from front end to back end. I work on the user interface, server logic, and data flow, making sure everything works well together. I follow security principles and software best practices to protect data and prevent common issues. My goal is to write clean, maintainable code and deliver applications that are stable, fast, and easy to use.
 
 ---
 
@@ -90,7 +90,7 @@ As a frontend developer, I’m passionate about transforming **complex problems 
 - REST APIs, Firebase, Appwrite  
 
 **Tools & Methodologies**  
-- Git, CI/CD, Agile/Scrum  
+- Git, CI/CD, Agile/Scrum, Docker, Nginx
 
 ---
 
