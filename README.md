@@ -61,7 +61,7 @@ Feb  2022 – Mar 2024
 ---
 
 ## 👨‍💻 About Me  
-As a cracked fullstack developer, I focused on building scalable, high performance web systems that translate product requirement into measurement buisness outcomes.  I build complete applications from front end to back end. I work on the user interface, server logic, and data flow, making sure everything works well together. I follow security principles and software best practices to protect data and prevent common issues. My goal is to write clean, maintainable code and deliver applications that are stable, fast, and easy to use.
+As a cracked fullstack developer, I focused on building scalable, high performance web systems that translate product requirement into measurement business outcomes.  I develop end-to-end systems, handling everything from the user interface, server logic, and data flow, making sure every part is well synchronize. I follow software security & best practices to protect data and prevent common issues. My goal is to write clean, maintainable code and deliver applications that are stable, fast, and easy to use.
 
 ---
 
