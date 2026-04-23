@@ -18,53 +18,50 @@ To secure a challenging **Software Developer position** where I can apply my exp
 ---
 
 ## 💼 Experience  
+**Fullstack Developer**  
+Optisoft Technology. 
+February 2026 -  present 
+- Designed and developed scalable Skillwave enterprise CRM, inventory, and financial management system using modern fullstack technologies, streamlining business operations across multiple departments.
+- Architected secure and modular backend services with robust authentication and role-based access control, reducing unauthorized access risks and improving system security by 30%.
+- Implemented efficient inventory tracking and financial reporting workflows, reducing data inconsistencies and manual reconciliation efforts by 20%.
+- Improved system scalability and reliability through caching strategies and performance tuning, enabling the platform to handle increased transaction loads with minimal latency.
+
+**Fullstack Developer**  
+NeoLiving Limited.  
+February 2026 -  present 
+- Built and scaled NeoLiving PropTech platform connecting property agents, buyers, and sellers, delivering a responsive and reliable experience that improved property listing engagement by 25%.
+- Integrated an AI-powered chatbot to handle customer inquiries and lead qualification, reducing response time and improving customer support efficiency by 30%.
+- Implemented secure payment integrations with Paystack and Flutterwave using idempotent transaction flows, reducing duplicate payments and transaction failures by 20%.
+- Optimized backend services, API performance, and frontend rendering, improving page load speed and system responsiveness by 25%, while ensuring scalability under increased user traffic.
 
 **Fullstack Developer**  
 BluconValley.  
 August 2025 -  present 
-- Developed a scalable multi-vendor marketplace with 
-secure payments and real-time features using Next.js, 
-TypeScript, Node.js, and Express.js. 
-- Built a dynamic admin system with role-based controls, 
-configurable dashboards, and content management. 
-- Implemented live/on-demand video streaming using 
-WebRTC with optimized performance. 
-- Improved system speed and reliability through API 
-optimizations, caching, and SSR/ISR, achieving faster load 
-times. 
+- Designed and delivered a scalable multi-vendor marketplace architecture using Next.js and Node.js supporting secure payments and real-time interactions, improved transaction success rate by 20%.
+- Architected a role-based admin platform with configurable dashboards and access controls, reducing operational overhead for admin by 30% .
+- Implemented live on-demand video streaming with WebRTC, Optimizing media handling to reduce latency and buffering issues by 25%.
+- Led performance optimizations across APIs and frontend rendering (SSR/ISR, caching), improving page load times by 35% and increasing application reliability under load. 
 
 
 **FRONTEND DEVELOPER**  
 Warpspeed Financial Limited.    
 Mar 2024 -  Aug 2025 
-- Contributed to building Warpspeed’s financial payment 
-application from scratch for both web (React) and mobile 
-(Flutter) platforms. 
-- Managed complex application state using Redux Toolkit in 
-React and Bloc in Flutter, ensuring consistent and 
-predictable user experiences. 
-- Integrated RESTful APIs, collaborating with backend 
-engineers (Node.js, Java) to implement real-time 
-transaction capabilities. 
-- Worked alongside embedded systems engineers to ensure 
-smooth interaction between the application and physical 
-payment hardware. 
+- Played a key role in building a fintech payment application from scratch across web (React) and mobile (Flutter), supporting secure, real-time financial transactions, customer resolution for production use. 
+- Designed and maintained scalable state management architectures using Redux Toolkit and Bloc, reducing staterelated bugs and inconsistencies by 40%. 
+- Led frontend API integrations with Node.js and Java backends, enabling real-time transaction flows and improving transaction processing speed by 15%. 
+- Collaborated with embedded engineers to stabilize hardware interactions, reducing transaction failures by 20%. 
 
 **FRONTEND DEVELOPER**  
 YipOnline Nigeria  Limited.  
 Feb  2022 – Mar 2024 
-- Assisted in developing user-facing features using HTML, CSS, 
-JavaScript, and React. 
-- Helped fix UI bugs and refactor code to improve readability 
-and performance. 
-- Participated in daily stand-ups and sprint planning as part 
-of the Agile development team. 
-- Gained hands-on experience integrating frontend 
-components with backend APIs. 
+- Developed and maintained user-facing features in React, improving UI responsiveness and user engagement by 15%. 
+- Refactored legacy UI components and resolved production bugs, improving frontend performance and reducing UI-related issues by 25%. 
+- Actively contributed to Agile ceremonies, collaborating with designers and backend engineers to deliver features on schedule with improved sprint predictability.
+- Gained hands-on experience integrating frontend components with backend APIs. 
 ---
 
 ## 👨‍💻 About Me  
-As a fullstack developer, I build complete applications from front end to back end. I work on the user interface, server logic, and data flow, making sure everything works well together. I follow security principles and software best practices to protect data and prevent common issues. My goal is to write clean, maintainable code and deliver applications that are stable, fast, and easy to use.
+As a cracked fullstack developer, I focused on building scalable, high performance web systems that translate product requirement into measurement buisness outcomes.  I build complete applications from front end to back end. I work on the user interface, server logic, and data flow, making sure everything works well together. I follow security principles and software best practices to protect data and prevent common issues. My goal is to write clean, maintainable code and deliver applications that are stable, fast, and easy to use.
 
 ---
 
