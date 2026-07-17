@@ -28,7 +28,7 @@ February 2026 -  present
 
 **Fullstack Developer**  
 NeoLiving Limited.  
-February 2026 -  present 
+February 2026 -  July 2026 
 - Built and scaled NeoLiving PropTech platform connecting property agents, buyers, and sellers, delivering a responsive and reliable experience that improved property listing engagement by 25%.
 - Integrated an AI-powered chatbot to handle customer inquiries and lead qualification, reducing response time and improving customer support efficiency by 30%.
 - Implemented secure payment integrations with Paystack and Flutterwave using idempotent transaction flows, reducing duplicate payments and transaction failures by 20%.
