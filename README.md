@@ -21,10 +21,10 @@ To secure a challenging **Software Developer position** where I can apply my exp
 **Fullstack Developer**  
 Optisoft Technology. 
 February 2026 -  present 
-- Designed and developed scalable Skillwave enterprise CRM, inventory, and financial management system using modern fullstack technologies, streamlining business operations across multiple departments.
-- Architected secure and modular backend services with robust authentication and role-based access control, reducing unauthorized access risks and improving system security by 30%.
-- Implemented efficient inventory tracking and financial reporting workflows, reducing data inconsistencies and manual reconciliation efforts by 20%.
-- Improved system scalability and reliability through caching strategies and performance tuning, enabling the platform to handle increased transaction loads with minimal latency.
+- Developed Skillwave, a multi-vendor marketplace platform that enabled customers to buy products, book services, and make secure escrow payments, increasing transaction reliability and improving user trust by 30%.
+- Implemented secure authentication and role-based access control, reducing unauthorized access risks by 30% while ensuring users could only access features relevant to their roles.
+- Optimized backend services, database queries, and frontend performance, improving response times by 25% and supporting increased user activity with greater reliability.
+- Built end-to-end admin workflows for vendors, service providers, smart agents, and super smart agents, reducing reviews and approval time by 40% through process automation.
 
 **Fullstack Developer (Contract)**  
 NeoLiving Limited.  
