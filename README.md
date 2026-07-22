@@ -26,7 +26,7 @@ February 2026 -  present
 - Implemented efficient inventory tracking and financial reporting workflows, reducing data inconsistencies and manual reconciliation efforts by 20%.
 - Improved system scalability and reliability through caching strategies and performance tuning, enabling the platform to handle increased transaction loads with minimal latency.
 
-**Fullstack Developer**  
+**Fullstack Developer (Contract)**  
 NeoLiving Limited.  
 February 2026 -  July 2026 
 - Built and scaled NeoLiving PropTech platform connecting property agents, buyers, and sellers, delivering a responsive and reliable experience that improved property listing engagement by 25%.
@@ -48,7 +48,7 @@ Warpspeed Financial Limited.
 Mar 2024 -  Aug 2025 
 - Played a key role in building a fintech payment application from scratch across web (React) and mobile (Flutter), supporting secure, real-time financial transactions, customer resolution for production use. 
 - Designed and maintained scalable state management architectures using Redux Toolkit and Bloc, reducing staterelated bugs and inconsistencies by 40%. 
-- Led frontend API integrations with Node.js and Java backends, enabling real-time transaction flows and improving transaction processing speed by 15%. 
+- Implemented various API integrations with Node.js and Java backends, enabling real-time transaction flows and improving transaction processing speed by 15%. 
 - Collaborated with embedded engineers to stabilize hardware interactions, reducing transaction failures by 20%. 
 
 **FRONTEND DEVELOPER**  
